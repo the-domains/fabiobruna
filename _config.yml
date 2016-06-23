@@ -1,4 +1,3 @@
-layout_spectrum: 0.18406663998030126
 typography_spectrum: 0.484228327171877
 color:
   brandStrength: 0.580727766500786
@@ -11,7 +10,9 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-name: fabiobruna
+layout_spectrum: 0.18406663998030126
 author:
   name: Fabio Bruna
   email: f.bruna@xs4all.nl
+name: fabiobruna
+title: Mijn weblogement
