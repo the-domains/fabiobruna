@@ -1,19 +1,24 @@
 ---
-datePublished: '2016-06-24T22:58:58.673Z'
-sourcePath: _posts/2016-06-24-veel-bezoek-een-troep-canadese-ganzen-achter-in-de-sloot.md
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/daa689c2-6001-4383-a11a-d2df5d285c72.jpg
+title: 'Canadeze ganzen '
+datePublished: '2016-08-21T19:45:27.543Z'
+dateModified: '2016-08-21T19:45:23.833Z'
 author: []
-dateModified: '2016-06-24T22:58:47.507Z'
-title: ''
 description: Troep
+publisher:
+  name: Fabio Bruna
+via: {}
 starred: false
+sourcePath: _posts/2016-06-24-veel-bezoek-een-troep-canadese-ganzen-achter-in-de-sloot.md
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
-url: veel-bezoek-een-troep-canadese-ganzen-achter-in-de-sloot/index.html
-_context: 'http://schema.org'
-_type: Article
+_type: MediaObject
 
 ---
+# Canadeze ganzen 
+> 
 > Veel bezoek, een troep Canadese ganzen achter in de sloot.
 
 ![Troep](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daa689c2-6001-4383-a11a-d2df5d285c72.jpg)
