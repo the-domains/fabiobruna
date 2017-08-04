@@ -1,6 +1,5 @@
-typography_spectrum: 0.7397331978786404
-content_rating:
-  adult: false
+layout_spectrum: 0.4766349011670687
+typography_spectrum: 0.40647438625288707
 color:
   brandColors:
     - '#1A1F2B'
@@ -8,15 +7,18 @@ color:
     - '#4A6491'
     - '#85A5CC'
     - '#D0E4F2'
-  brandStrength: 0.5412102750646375
-  lightness: 0.8361121887070966
-  saturation: 0.5958621713721036
-  rhythmicContrast: 0.2048023385853313
+  brandStrength: 0.9295527615158422
+  lightness: 0.10174403500208391
+  saturation: 0.9695994321209849
+  rhythmicContrast: 0.852024545756141
+coverPrefs:
+  filter: false
+content_rating:
+  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
-layout_spectrum: 0.23498169265447721
 author:
   name: Fabio Bruna
   url: ''
@@ -52,5 +54,3 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-coverPrefs:
-  filter: false
