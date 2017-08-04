@@ -1,20 +1,22 @@
+layout_spectrum: 0.23498169265447721
+typography_spectrum: 0.7397331978786404
+color:
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+  brandStrength: 0.5412102750646375
+  lightness: 0.8361121887070966
+  saturation: 0.5958621713721036
+  rhythmicContrast: 0.2048023385853313
+coverPrefs:
+  filter: false
 name: fabiobruna
-layout_spectrum: 0.18406663998030126
-typography_spectrum: 0.484228327171877
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#FCFFF5'
-    - '#D1DBBD'
-    - '#91AA9D'
-    - '#3E606F'
-    - '#193441'
-  brandStrength: 0.580727766500786
-  lightness: 0.49668725952506065
-  saturation: 0.1844853137154132
-  rhythmicContrast: 0.2886874028481543
 title: Mijn weblogement
 author:
   name: Fabio Bruna
@@ -22,3 +24,29 @@ author:
   email: f.bruna@xs4all.nl
 content_rating:
   adult: false
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c39f9952-f909-4b65-a112-c50db5914de4.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c39f9952-f909-4b65-a112-c50db5914de4.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
