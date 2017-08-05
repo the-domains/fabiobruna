@@ -35,6 +35,9 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/fa.biobruna/'
     type: external
+  - name: Last.fm
+    url: 'https://www.last.fm/user/koetjeboeh'
+    type: external
 title: Fabio Bruna
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
