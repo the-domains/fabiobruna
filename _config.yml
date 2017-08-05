@@ -23,12 +23,12 @@ author:
   email: f.bruna@xs4all.nl
 name: fabiobruna
 navigation:
-  - name: Github
-    url: 'http://github.com/fabiobruna'
-    type: external
   - name: Over deze webzijde
     id: 0d195063-aded-425c-914b-7858844e4389
     type: content
+  - name: Github
+    url: 'http://github.com/fabiobruna'
+    type: external
 title: Fabio Bruna
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
