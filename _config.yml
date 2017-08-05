@@ -29,6 +29,9 @@ navigation:
   - name: Github
     url: 'http://github.com/fabiobruna'
     type: external
+  - name: Flickr
+    url: 'https://www.flickr.com/photos/151554823@N05/'
+    type: external
 title: Fabio Bruna
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
