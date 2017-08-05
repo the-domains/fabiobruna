@@ -28,7 +28,7 @@ navigation:
   - name: Github
     url: 'http://github.com/fabiobruna'
     type: external
-title: Mijn weblogement
+title: Fabio Bruna - mijn weblogement
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
