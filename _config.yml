@@ -1,5 +1,6 @@
-layout_spectrum: 0.4766349011670687
 typography_spectrum: 0.40647438625288707
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#1A1F2B'
@@ -11,14 +12,11 @@ color:
   lightness: 0.10174403500208391
   saturation: 0.9695994321209849
   rhythmicContrast: 0.852024545756141
-coverPrefs:
-  filter: false
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.4766349011670687
 author:
   name: Fabio Bruna
   url: ''
@@ -28,6 +26,9 @@ navigation:
   - name: Github
     url: 'http://github.com/fabiobruna'
     type: external
+  - name: Over deze webzijde
+    id: 0d195063-aded-425c-914b-7858844e4389
+    type: content
 title: Fabio Bruna
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -54,4 +55,6 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+coverPrefs:
+  filter: false
 description: mijn weblogement
