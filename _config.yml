@@ -32,6 +32,9 @@ navigation:
   - name: Flickr
     url: 'https://www.flickr.com/photos/_fabio/'
     type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/fa.biobruna/'
+    type: external
 title: Fabio Bruna
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
