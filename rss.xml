@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Mijn weblogement]]></title>
-        <description><![CDATA[Mijn weblogement]]></description>
+        <title><![CDATA[Fabio Bruna]]></title>
+        <description><![CDATA[Fabio Bruna]]></description>
         <link>https://thegrid.ai/fabiobruna/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Aug 2017 16:47:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Aug 2017 12:13:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fabiobruna/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 04 Aug 2017 16:47:40 GMT</pubDate>
+        <pubDate>Sun, 06 Aug 2017 12:13:41 GMT</pubDate>
+        <item>
+            <title><![CDATA[Nederland wolkjesland]]></title>
+            <description><![CDATA[<h1>Nederland wolkjesland</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1071081d-e988-4892-afc1-81b58d555fc2.jpg" title="Dobbeplas">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c98d5a6f-700c-458c-a295-e40a903ea24d.jpg" title="Bieslandse polder">,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e07f1118-2fbc-43a7-897a-c2139cdf2a8f.jpg" title="Bieslandse polder" alt="Met 4 lepelaars">]]></description>
+            <link>https://thegrid.ai/fabiobruna/nederland-wolkjesland/index.html</link>
+            <guid isPermaLink="false">d31214b3-e6cc-438b-acd5-f2b072539337</guid>
+            <pubDate>Sun, 06 Aug 2017 12:13:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Westin Las Vegas]]></title>
             <description><![CDATA[<article><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b77eae30-deda-4956-a81b-b3a3d7034f38.jpg"><h1>Westin Las Vegas</h1></article>]]></description>
