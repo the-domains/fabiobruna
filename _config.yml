@@ -68,3 +68,5 @@ coverPrefs:
   filter: false
 description: mijn weblogement
 url: 'https://koetjeboeh.nl/'
+analytics:
+  google: UA-270503-1
